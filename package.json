@@ -1,6 +1,7 @@
 {
   "name": "aikesehatan",
   "version": "1.0.0",
+  "packageManager": "pnpm@9.0.0",
   "description": "AI chat kesehatan profesional menggunakan OpenAI SDK dengan Groq-compatible endpoint.",
   "type": "module",
   "main": "api/index.js",
